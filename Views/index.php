@@ -25,7 +25,7 @@
                // Api Key
                $api_key = '4f3bceed-50ba-4461-a910-518598664c08';
 
-               echo($response);
+               
 
                ?>
             
